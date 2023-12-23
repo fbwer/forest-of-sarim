@@ -1,6 +1,6 @@
 <img src="https://github.com/fbwer/forest-of-sarim/assets/117167196/3a164301-524f-4c79-9514-20a4829762df.png" width="60%" height="60%"/>
 
-# forest-of-sarim
+# 사림
 
 동아시아의 성리학 교조주의 국가, 조선을 배경으로 하는 
 
