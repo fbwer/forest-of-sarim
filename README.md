@@ -1,7 +1,10 @@
-# forest-of-sarim
-![사림](https://github.com/fbwer/forest-of-sarim/assets/117167196/3a164301-524f-4c79-9514-20a4829762df)
+<img src="https://github.com/fbwer/forest-of-sarim/assets/117167196/3a164301-524f-4c79-9514-20a4829762df.png" width="60%" height="60%"/>
 
-Forest of Sarim. 사림의 숲. 동아시아의 성리학 교조주의 국가, 조선을 배경으로 하는 동양 어반판타지 TRPG 룰북입니다.
+# forest-of-sarim
+
+동아시아의 성리학 교조주의 국가, 조선을 배경으로 하는 
+
+**중세 어반판타지** TRPG 룰북입니다.
 
 사림의 숲은 다음과 같은 목적으로 제작되었습니다.
 
